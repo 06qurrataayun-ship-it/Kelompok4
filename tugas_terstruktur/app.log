@@ -1,0 +1,25 @@
+2026-05-06 13:25:44,075 - INFO - Koneksi ke MongoDB berhasil.
+2026-05-06 13:26:15,205 - INFO - Koneksi ke MongoDB berhasil.
+2026-05-06 13:26:20,420 - INFO - Koneksi ke MongoDB berhasil.
+2026-05-06 13:30:07,666 - INFO - Koneksi ke MongoDB berhasil.
+2026-05-06 13:35:16,071 - INFO - Aplikasi dimulai - Koneksi sukses.
+2026-05-06 13:36:22,852 - INFO - INSERT: Batch B1 ditambahkan.
+2026-05-06 13:36:42,899 - INFO - QUERY: Mencari data mesin CNC-01
+2026-05-06 13:51:22,097 - INFO - Aplikasi dimulai - Koneksi sukses.
+2026-05-06 13:52:54,544 - INFO - QUERY: Menampilkan tabel mesin CNC-01
+2026-05-06 13:57:51,150 - INFO - EXPORT: Laporan laporan_10-2021.csv dibuat.
+2026-05-06 14:14:33,613 - INFO - Aplikasi dimulai - Koneksi sukses.
+2026-05-06 14:33:07,575 - INFO - INSERT: Batch 2500104 ditambahkan.
+2026-05-06 14:33:14,632 - INFO - QUERY: Menampilkan tabel mesin CNC
+2026-05-06 14:33:25,282 - INFO - AGGREGATE: Hitung reject rate sukses.
+2026-05-06 14:33:47,310 - INFO - EXPORT: Laporan laporan_01-2026.csv dibuat.
+2026-05-06 15:00:50,274 - INFO - Aplikasi dimulai - Koneksi sukses.
+2026-05-06 15:02:35,460 - INFO - INSERT: Batch B1 ditambahkan.
+2026-05-06 15:02:39,616 - INFO - AGGREGATE: Hitung reject rate sukses.
+2026-05-06 15:02:58,839 - INFO - EXPORT: Laporan laporan_02-2025.csv dibuat.
+2026-05-06 15:03:15,043 - INFO - QUERY: Menampilkan tabel mesin Bor
+2026-05-06 15:37:31,913 - INFO - Aplikasi dimulai - Koneksi sukses.
+2026-05-06 15:38:57,729 - INFO - INSERT: Batch B3 ditambahkan.
+2026-05-06 15:40:35,333 - INFO - QUERY: Menampilkan tabel mesin Drill
+2026-05-06 15:43:33,061 - INFO - AGGREGATE: Hitung reject rate sukses.
+2026-05-06 15:44:12,657 - INFO - EXPORT: Laporan laporan_01-2026.csv dibuat.
