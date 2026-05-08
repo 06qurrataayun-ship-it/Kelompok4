@@ -1,4 +1,4 @@
-# 🧊 Cold Storage IoT Monitoring System
+# 🧊 Cold Storage IoT Monitoring System - Project Pertemuan 6
 
 Sistem pemantauan kualitas lingkungan untuk **Cold Storage (ruang penyimpanan daging)** berbasis arsitektur IoT dengan MQTT dan MongoDB.
 
