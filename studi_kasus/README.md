@@ -1,4 +1,4 @@
-# # Studi Kasus
+# # Studi Kasus Pertemuan 6
 
 # Dashboard Monitoring Suhu Mesin
 
