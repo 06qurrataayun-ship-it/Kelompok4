@@ -1,4 +1,4 @@
-# DOKUMENTASI PROGRAM - SISTEM DATA PRODUKSI - Tugas Terstruktur Pertemuan 6
+# SISTEM DATA PRODUKSI - Tugas Terstruktur Pertemuan 6
 
 Tugas ini dibangun untuk memenuhi kriteria Tugas Terstruktur (Tugas Mandiri) pembangunan aplikasi input data produksi dan laporan berbasis MongoDB.
 
